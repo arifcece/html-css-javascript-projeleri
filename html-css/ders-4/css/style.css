@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 0, 170);
+}
+#baslık{
+    color: rgb(68, 0, 255);
+}
+h1{
+    color: red;
+    
+}
+h1{
+    color: black;
+}
+ul{
+    color: white; font-weight: bold;
+}
+p{
+    color: white;
+}
+div{
+    color: rgb(68, 0, 255);
+   
+}
+span{
+    color: rgb(0, 0, 0);
+}
+.sınıf{
+color: yellow;
+}
+.text{
+    font-weight: 800;
+}
+.sınıf.text{
+    color:greenyellow ;
+}
+
+
