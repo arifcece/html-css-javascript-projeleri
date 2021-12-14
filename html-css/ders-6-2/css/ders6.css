@@ -1,0 +1,51 @@
+html,body{
+    height: 50%;
+    
+}
+h1{
+    color: yellow;
+    background-color: red;
+    padding-left: 46%;
+    margin:50px
+    ;
+}
+span{
+    color: red;
+    background-color: royalblue;
+    padding: 50px;
+    margin: 100px 150px auto 300px;
+    border-style:dashed;
+    border-width: 50px;
+    
+}
+div{
+    height: 30%;
+    color: yellowgreen;
+    background-color:rgb(124, 0, 62);
+    margin:50px;
+    border-style:dashed;
+    border-width: 15px;
+    border-color:lightseagreen;
+   /* border-left-style: groove;
+    border-right-style:double ;*/
+    border-style: double groove dashed dotted;
+
+  /*  padding-top: 50px;
+   padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    */
+    padding: 50px 100px 200px 300px;
+}
+.arif{
+    width: 200px;
+    height: 200px;
+    border: 100px double black ;
+    background-color: transparent;
+    border-top-right-radius: 50px  ;
+   border-radius: 50%;
+}
+img{
+   
+    border-radius: 50%;
+}
